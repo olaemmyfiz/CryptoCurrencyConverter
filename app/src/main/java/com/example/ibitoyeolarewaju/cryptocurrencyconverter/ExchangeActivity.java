@@ -211,7 +211,7 @@ public class ExchangeActivity extends AppCompatActivity {
                 }
 
             }
-
+                        ///Note
             @Override
             public void onNothingSelected(AdapterView<?> adapterView) {
 
